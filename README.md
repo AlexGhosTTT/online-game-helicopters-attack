@@ -5,3 +5,5 @@ Simple online game from The Rolling Scopes School 2017 spring course. App uses n
 ## Usage
 
 The deployed game is located at https://whispering-brook-21659.herokuapp.com/ .
+
+Landing page https://kektour.github.io/RS_online-game-helicopters-attack-landing-page/
